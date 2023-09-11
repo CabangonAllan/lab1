@@ -1,0 +1,17 @@
+C:\Users\Cabangon.252762\source\repos\AccounRegistration\AccounRegistration\bin\Debug\net6.0-windows\AccounRegistration.exe
+C:\Users\Cabangon.252762\source\repos\AccounRegistration\AccounRegistration\bin\Debug\net6.0-windows\AccounRegistration.deps.json
+C:\Users\Cabangon.252762\source\repos\AccounRegistration\AccounRegistration\bin\Debug\net6.0-windows\AccounRegistration.runtimeconfig.json
+C:\Users\Cabangon.252762\source\repos\AccounRegistration\AccounRegistration\bin\Debug\net6.0-windows\AccounRegistration.dll
+C:\Users\Cabangon.252762\source\repos\AccounRegistration\AccounRegistration\bin\Debug\net6.0-windows\AccounRegistration.pdb
+C:\Users\Cabangon.252762\source\repos\AccounRegistration\AccounRegistration\obj\Debug\net6.0-windows\AccounRegistration.csproj.AssemblyReference.cache
+C:\Users\Cabangon.252762\source\repos\AccounRegistration\AccounRegistration\obj\Debug\net6.0-windows\AccounRegistration.Form1.resources
+C:\Users\Cabangon.252762\source\repos\AccounRegistration\AccounRegistration\obj\Debug\net6.0-windows\AccounRegistration.csproj.GenerateResource.cache
+C:\Users\Cabangon.252762\source\repos\AccounRegistration\AccounRegistration\obj\Debug\net6.0-windows\AccounRegistration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cabangon.252762\source\repos\AccounRegistration\AccounRegistration\obj\Debug\net6.0-windows\AccounRegistration.AssemblyInfoInputs.cache
+C:\Users\Cabangon.252762\source\repos\AccounRegistration\AccounRegistration\obj\Debug\net6.0-windows\AccounRegistration.AssemblyInfo.cs
+C:\Users\Cabangon.252762\source\repos\AccounRegistration\AccounRegistration\obj\Debug\net6.0-windows\AccounRegistration.csproj.CoreCompileInputs.cache
+C:\Users\Cabangon.252762\source\repos\AccounRegistration\AccounRegistration\obj\Debug\net6.0-windows\AccounRegistration.dll
+C:\Users\Cabangon.252762\source\repos\AccounRegistration\AccounRegistration\obj\Debug\net6.0-windows\refint\AccounRegistration.dll
+C:\Users\Cabangon.252762\source\repos\AccounRegistration\AccounRegistration\obj\Debug\net6.0-windows\AccounRegistration.pdb
+C:\Users\Cabangon.252762\source\repos\AccounRegistration\AccounRegistration\obj\Debug\net6.0-windows\AccounRegistration.genruntimeconfig.cache
+C:\Users\Cabangon.252762\source\repos\AccounRegistration\AccounRegistration\obj\Debug\net6.0-windows\ref\AccounRegistration.dll
